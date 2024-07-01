@@ -1,0 +1,20 @@
+Next Steps:
+- Structure pages
+- Structure components
+
+PAGES
+/ --> Landpage, introduction and portfolio
+/career-path --> Page with the necesary steps to become a FrontEnd Software Architect and acutal progress.
+/posts --> Post about progress on learning to be a FrontEnd Architect
+/contact
+/cookies
+/help
+/navigation-map
+
+COMPONENTS
+app-root
+app-head
+app-navigation-menu
+app-page-content
+app-index-page-content
+app-footer
