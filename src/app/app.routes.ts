@@ -1,6 +1,5 @@
 import { Routes } from '@angular/router';
-import { AppComponent } from './app.component';
-import { IndexPageContentComponent } from './index-page-content/index-page-content.component';
+import { IndexPageContentComponent } from './home-page-content/home-page-content.component';
 import { CareerPathPageContentComponent } from './career-path-page-content/career-path-page-content.component';
 import { PostsPageContentComponent } from './posts-page-content/posts-page-content.component';
 import { ContactPageContentComponent } from './contact-page-content/contact-page-content.component';
@@ -8,22 +7,22 @@ import { ContactPageContentComponent } from './contact-page-content/contact-page
 export const routes: Routes = [
     {
         path: '',
-        title: 'Index',
+        title: 'Home - FrontEnd Blog',
         component: IndexPageContentComponent
     },
     {
         path: 'career-path',
-        title: 'Career Path',
+        title: 'Career Path - FrontEnd Blog',
         component: CareerPathPageContentComponent
     },
     {
         path: 'posts',
-        title: 'Posts',
+        title: 'Posts - FrontEnd Blog',
         component: PostsPageContentComponent
     },
     {
         path: 'contact',
-        title: 'Contact',
+        title: 'Contact - FrontEnd Blog',
         component: ContactPageContentComponent
     }
 ];

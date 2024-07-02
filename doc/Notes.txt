@@ -4,17 +4,22 @@ Next Steps:
 
 PAGES
 / --> Landpage, introduction and portfolio
-/career-path --> Page with the necesary steps to become a FrontEnd Software Architect and acutal progress.
+/career-path --> Page with the necesary steps to become a FrontEnd Software Architect and actual progress.
 /posts --> Post about progress on learning to be a FrontEnd Architect
-/contact
-/cookies
-/help
-/navigation-map
+/contact --> Page to contact and to give feedback to the web
+/cookies --> TO DO
+/help --> TO DO
+/navigation-map --> TO DO
 
 COMPONENTS
 app-root
-app-head
-app-navigation-menu
-app-page-content
-app-index-page-content
-app-footer
+app-head --> TO DO
+app-navigation-menu --> TO DO
+app-home-page-content --> TO IMPROVE
+    - Change image
+    - Add more content
+    - Improve styling
+app-career_path-page-content --> TO FILL
+app-posts-page-content --> TO FILL
+app-contact-page-content --> TO FILL
+app-footer --> TO DO

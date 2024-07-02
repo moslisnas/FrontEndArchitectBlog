@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { IndexPageContentComponent } from './index-page-content.component';
+import { IndexPageContentComponent } from './home-page-content.component';
 
 describe('IndexPageContentComponent', () => {
   let component: IndexPageContentComponent;
